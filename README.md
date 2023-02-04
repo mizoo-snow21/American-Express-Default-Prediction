@@ -1,6 +1,6 @@
 # American-Express-Default-Prediction
 
-https://www.kaggle.com/competitions/amex-default-prediction/leaderboard
+https://www.kaggle.com/competitions/amex-default-prediction/leaderboard  
 We got 221th prize.  
 This is summary and codes.
 
