@@ -13,17 +13,11 @@ https://www.kaggle.com/code/ogrellier/feature-selection-with-null-importances
 https://scikit-learn.org/stable/modules/permutation_importance.html  
 
 # Model
-## microsoft/deberta-v3-large
-・TransformerHead + multisampledropout  
-・optimizer = AdamW  
-・epoch = 5  
-・scheduler = CosineAnnealingLR  
+## catboost   
 
-## anferico/bert-for-patents
-・TransformerHead  
-・optimizer = AdamW   
-・epoch = 5    
-・scheduler = CosineAnnealingLR  
+## xgboost  
+
+## lightgbm  
 
 ## Weight optimazation 
 I use weight optimazation to maximize cv.  
