@@ -7,7 +7,7 @@ This is summary and codes.
 # Summary
 
 ## Data strategy
-・5fold StratifiedKFold
+・5fold StratifiedKFold  
 ・Deferent features using Null importance and Permutation importance  
 https://www.kaggle.com/code/ogrellier/feature-selection-with-null-importances  
 https://scikit-learn.org/stable/modules/permutation_importance.html  
